@@ -1,9 +1,9 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student:Indy Schippers
+# Groep:IT2A
 
 # Hier komt je code...
 
-my_dict = ...
+my_dictionary = {"Willem": "Van der Broek", "mijn_getal": 23, "fav_kleur": "blauw"}
 
-print()
+print(my_dictionary)
