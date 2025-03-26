@@ -6,7 +6,9 @@
 
 # Hier start de for-loop....
 
-my_list = []
+my_list = getallen = list(range(1, 11))
+resultaat = [x for x in getallen if x > 4]
+print(resultaat)
 
 #for loop
 #if statement

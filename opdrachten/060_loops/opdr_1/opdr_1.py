@@ -6,4 +6,7 @@
 
 # Hier start de for-loop....
 
-my_list = []
+# Maak een lege lijst
+
+getallen = [i for i in range(1, 11)]
+print(getallen)

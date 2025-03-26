@@ -6,5 +6,7 @@
 
 # Hier start de for-loop
 
-my_list = []
+getallen = [i for i in range(10, 51, 10)]
+print(getallen)
+
 
