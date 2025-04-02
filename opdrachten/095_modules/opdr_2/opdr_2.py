@@ -5,3 +5,4 @@
 # import .....
 # for line in open("test.csv", 'rt'):
 #   jouw code komt hier!
+from my_modules import csv
