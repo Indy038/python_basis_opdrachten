@@ -1,10 +1,14 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
+# Naam student: Kevin Bonestroo
+# Groep: IT2A
 
 # importeer de module csv...
-# opdr_1.py
+from my_modules import csv_module as csv
 
-# opdr_1.py
+def main():
+    data = csv.lees_csv('voorbeeld.csv')
+    for rij in data:
+        print(rij)
 
-from Mymodules import rekenen
+if __name__ == "__main__":
+    main()
