@@ -144,7 +144,7 @@ def main():
 
     uitvoer_bestand = "D:\School\Python\python_basis_opdrachten\Gewijzigde_bestanden.txt"
 
-    backup_bestand = "D:\School\Python\python_basis_opdrachten\backup_bestanden.json"
+    backup_bestand = "D:\\School\\Python\\python_basis_opdrachten\\backup_bestanden.json"
 
  
 
